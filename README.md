@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Phetogo
 
-<!--
-**Phetogok/Phetogok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring **Software Developer** | Passionate about **Web Development**, **AI Integration**, and **Clean Code**  
+🚀 Building smart and user-focused full-stack applications
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Languages:** JavaScript (ES6+), Python, HTML5, CSS3
+- **Frameworks/Libraries:** React.js, Node.js, Express.js, Django
+- **Databases:** MongoDB, SQLite
+- **Tools:** Git, GitHub, VS Code, npm, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Projects
+- 🎓 **AI Study Coach & Tutor** – Personalized learning assistant with topic help, speech feedback, and PDF understanding
+- 🧑‍💼 **AI Resume Analyzer** – Match resumes to job descriptions using AI and React
+- 📚 **Student Textbook Marketplace** – University-based listing app with smart search and safety features
+- 🗣️ **AI Interviewer App** – Simulated interviews with real-time behavior analysis and feedback
+
+## 📈 Currently Exploring
+- TypeScript · Next.js · Machine Learning APIs · Docker · AI Agent Integration
+
+## 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/phetogo](#)  
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+⭐ Check out my repositories and feel free to contribute or reach out!
