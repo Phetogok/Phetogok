@@ -10,17 +10,17 @@
 - **Tools:** Git, GitHub, VS Code, npm, Postman
 
 ## 💡 Projects
-- 🎓 **AI Study Coach & Tutor** – Personalized learning assistant with topic help, speech feedback, and PDF understanding
-- 🧑‍💼 **AI Resume Analyzer** – Match resumes to job descriptions using AI and React
+- 🎓 **Chess Tournament system** – Developed a full-stack Chess Tournament Management app enabling admins to create, update, and delete tournaments, and users to view and book slots.
+- 🧑‍💼 **AI-Powered Educational Assistant Platform** – Built with Python, Django, and Bootstrap to assist students with homework, English, and exam prep
 - 📚 **Student Textbook Marketplace** – University-based listing app with smart search and safety features
-- 🗣️ **AI Interviewer App** – Simulated interviews with real-time behavior analysis and feedback
+- 🗣️ **AI-Lottery Predictor App** – A predictive tool that uses AI and historical data to generate likely Powerball or Lotto number combinations
 
 ## 📈 Currently Exploring
 - TypeScript · Next.js · Machine Learning APIs · Docker · AI Agent Integration
 
 ## 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/phetogo](#)  
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** https://www.linkedin.com/in/phetogo-kwape-455b9921b/
+- **Email:** pkwape33@gmail.com
 
 ---
 
