@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Phetogo
 
-💻 Aspiring **Software Developer** | Passionate about **Web Development**, **AI Integration**, and **Clean Code**  
+💻 **Software Developer** | Passionate about **Web Development**, **AI Integration**, and **Clean Code**  
 🚀 Building smart and user-focused full-stack applications
 
 ## 🛠 Tech Stack
